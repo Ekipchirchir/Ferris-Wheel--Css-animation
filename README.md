@@ -7,5 +7,9 @@ These here are the major css concepts for someone who wants to create one like t
 4. Animations iteration counts.
 
 
-![Screenshot (90)](https://github.com/Ekipchirchir/Ferris-Wheel--Css-animation/assets/130069395/ab7d76bd-d097-48f9-b04f-4393265c9b7b)
-![Screenshot (91)](https://github.com/Ekipchirchir/Ferris-Wheel--Css-animation/assets/130069395/05363dea-03a9-41a1-9407-69b1164b3a6e)
+
+https://github.com/Ekipchirchir/Ferris-Wheel--Css-animation/assets/130069395/6d42f031-ffcb-4775-b73d-7aee875b1f5f
+
+
+
+
