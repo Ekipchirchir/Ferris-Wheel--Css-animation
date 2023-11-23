@@ -1,6 +1,6 @@
 # Ferris-Wheel--Css-animation.
 Created Ferris Wheel using Css. 
-There  here are the major css concepts for someone who wants to create one like this: 
+These here are the major css concepts for someone who wants to create one like this: 
 1. Key frames.
 2. Animation timing functions.
 3. Animation durations.
